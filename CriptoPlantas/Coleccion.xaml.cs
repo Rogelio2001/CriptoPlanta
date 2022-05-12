@@ -3,7 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+using System.Collections.ObjectModel;
+using CriptoPlantas.DataModel;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
@@ -12,13 +13,20 @@ namespace CriptoPlantas
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class Coleccion : ContentPage
     {
+        ObservableCollection<Plantas> grupo;
         public Coleccion()
         {
+            
             InitializeComponent();
+            grupo = new ObservableCollection<Plantas>
+            {
+                new Plantas {Nombre="Poto", Foto="",Descripcion="" },
+                new Plantas { Nombre = "", Foto = "", Descripcion = ""}
+            };
         }
         private void lsvGrupo_ItemTapped(object sender, ItemTappedEventArgs e)
         {
-            Museos p = (Museos)e.Item;
+            Plantas p = (Plantas)e.Item;
             lbdescrip.Text = p.Descripcion;
 
             //((ListView) sender).SelectedItem = null;
@@ -28,7 +36,17 @@ namespace CriptoPlantas
          * Si un elemento ya ha sido seleccionado, este evento ya no se dispara */
         private void lsvGrupo_ItemSelected(object sender, SelectedItemChangedEventArgs e)
         {
-            Museos p = (Museos)e.SelectedItem;
+            Plantas p = (Plantas)e.SelectedItem;
+
+        }
+
+        private void btnB_Clicked(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnC_Clicked(object sender, EventArgs e)
+        {
 
         }
     }

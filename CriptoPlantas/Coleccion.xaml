@@ -3,19 +3,21 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="CriptoPlantas.Coleccion">
     <ContentPage.Content>
-        <StackLayout BackgroundColor="AliceBlue">
-            <Frame BackgroundColor="#2196F3" >
+        <StackLayout BackgroundColor="#82954c">
+            <Frame BackgroundColor="#768745" Margin="0" CornerRadius="5" Padding="0" HeightRequest="80" >                
                 <Grid>
                     <Grid.RowDefinitions>
-                        <RowDefinition Height="auto"/>
-                        <RowDefinition Height=".4*"/>
-                        <RowDefinition Height=".6*"/>
+                        <RowDefinition />                  
                     </Grid.RowDefinitions>
                     <Grid.ColumnDefinitions>
-                        <ColumnDefinition/>
+                        <ColumnDefinition Width="0.8*"/>
+                        <ColumnDefinition Width="5*"/>
+                        <ColumnDefinition Width="0.8*"/>
                     </Grid.ColumnDefinitions>
-                </Grid>
-                
+                    <Button Text="B" x:Name="btnB" Clicked="btnB_Clicked" Grid.Row="0" Grid.Column="0" TextColor="#ffef82" />
+                    <Label Text="CriptoPlantas"  Grid.Row="0" Grid.Column="1" HorizontalTextAlignment="Center" TextColor="#ffef82" FontSize="Title"/>
+                    <Button Text="c" x:Name="btnC" Clicked="btnC_Clicked" Grid.Row="0" Grid.Column="02" TextColor="#ffef82"/>
+                </Grid>                  
             </Frame>
             <StackLayout Margin="15">
                 <ListView x:Name="lvgrupo" HasUnevenRows="True" 
@@ -27,8 +29,7 @@
                                     <StackLayout Orientation="Horizontal" >
                                         <Image Source="{Binding Foto}" WidthRequest="60" HeightRequest="60"/>
                                         <StackLayout Padding="15,0,0,0">
-                                            <Label Text="{Binding Nombre}" FontSize="Medium" FontAttributes="Bold" TextColor="Black"/>
-                                            <Label Text="{Binding Tipo}" FontSize="Small" TextColor="Black"/>
+                                            <Label Text="{Binding Nombre}" FontSize="Medium" FontAttributes="Bold" TextColor="Black"/>                                           
                                         </StackLayout>
                                     </StackLayout>
                                 </Frame>
@@ -37,8 +38,8 @@
                     </ListView.ItemTemplate>
                 </ListView>
             </StackLayout>
-            <Frame BackgroundColor="#C7EAFF" Margin="8" CornerRadius="10" Padding="10">
-                <Label x:Name="lbdescrip" Text="{Binding Descripcion}" FontSize="Medium" TextColor="#748C99"/>
+            <Frame BackgroundColor="#768745" Margin="8" CornerRadius="10" Padding="10" HeightRequest="120" >
+                <Label x:Name="lbdescrip" Text="{Binding Descripcion}" FontSize="Medium" TextColor="#748C99" HorizontalTextAlignment="Center"/>
             </Frame>
         </StackLayout>
     </ContentPage.Content>

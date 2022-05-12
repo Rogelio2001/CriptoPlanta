@@ -5,3 +5,11 @@ C:\Users\zunig\source\repos\Xamarin\CriptoPlantas\CriptoPlantas\obj\Debug\netsta
 C:\Users\zunig\source\repos\Xamarin\CriptoPlantas\CriptoPlantas\obj\Debug\netstandard2.0\CriptoPlantas.AssemblyInfoInputs.cache
 C:\Users\zunig\source\repos\Xamarin\CriptoPlantas\CriptoPlantas\obj\Debug\netstandard2.0\CriptoPlantas.AssemblyInfo.cs
 C:\Users\zunig\source\repos\Xamarin\CriptoPlantas\CriptoPlantas\obj\Debug\netstandard2.0\CriptoPlantas.csproj.CoreCompileInputs.cache
+C:\Users\zunig\source\repos\Xamarin\CriptoPlantas\CriptoPlantas\bin\Debug\netstandard2.0\CriptoPlantas.deps.json
+C:\Users\zunig\source\repos\Xamarin\CriptoPlantas\CriptoPlantas\bin\Debug\netstandard2.0\CriptoPlantas.dll
+C:\Users\zunig\source\repos\Xamarin\CriptoPlantas\CriptoPlantas\bin\Debug\netstandard2.0\CriptoPlantas.pdb
+C:\Users\zunig\source\repos\Xamarin\CriptoPlantas\CriptoPlantas\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\zunig\source\repos\Xamarin\CriptoPlantas\CriptoPlantas\obj\Debug\netstandard2.0\CriptoPlantas.dll
+C:\Users\zunig\source\repos\Xamarin\CriptoPlantas\CriptoPlantas\obj\Debug\netstandard2.0\refint\CriptoPlantas.dll
+C:\Users\zunig\source\repos\Xamarin\CriptoPlantas\CriptoPlantas\obj\Debug\netstandard2.0\CriptoPlantas.pdb
+C:\Users\zunig\source\repos\Xamarin\CriptoPlantas\CriptoPlantas\obj\Debug\netstandard2.0\ref\CriptoPlantas.dll

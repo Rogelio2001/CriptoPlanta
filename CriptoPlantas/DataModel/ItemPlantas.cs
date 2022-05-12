@@ -4,7 +4,10 @@ using System.Text;
 
 namespace CriptoPlantas.DataModel
 {
-    internal class ItemPlantas
+    public class Plantas
     {
+        public string Nombre { get; set; }
+        public string Foto { get; set; }
+        public string Descripcion { get; set; }
     }
 }
