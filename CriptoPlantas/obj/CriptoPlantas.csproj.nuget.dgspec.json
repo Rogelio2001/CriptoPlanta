@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\zunig\\source\\repos\\Xamarin\\CriptoPlantas\\CriptoPlantas\\CriptoPlantas.csproj": {}
+    "C:\\Users\\USER\\Desktop\\Code\\VSCode\\Criptoplantas\\CriptoPlantas\\CriptoPlantas.csproj": {}
   },
   "projects": {
-    "C:\\Users\\zunig\\source\\repos\\Xamarin\\CriptoPlantas\\CriptoPlantas\\CriptoPlantas.csproj": {
+    "C:\\Users\\USER\\Desktop\\Code\\VSCode\\Criptoplantas\\CriptoPlantas\\CriptoPlantas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zunig\\source\\repos\\Xamarin\\CriptoPlantas\\CriptoPlantas\\CriptoPlantas.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\Desktop\\Code\\VSCode\\Criptoplantas\\CriptoPlantas\\CriptoPlantas.csproj",
         "projectName": "CriptoPlantas",
-        "projectPath": "C:\\Users\\zunig\\source\\repos\\Xamarin\\CriptoPlantas\\CriptoPlantas\\CriptoPlantas.csproj",
-        "packagesPath": "C:\\Users\\zunig\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zunig\\source\\repos\\Xamarin\\CriptoPlantas\\CriptoPlantas\\obj\\",
+        "projectPath": "C:\\Users\\USER\\Desktop\\Code\\VSCode\\Criptoplantas\\CriptoPlantas\\CriptoPlantas.csproj",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\USER\\Desktop\\Code\\VSCode\\Criptoplantas\\CriptoPlantas\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\zunig\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

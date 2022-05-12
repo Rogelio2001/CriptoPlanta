@@ -3172,24 +3172,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\zunig\\.nuget\\packages\\": {},
+    "C:\\Users\\USER\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\zunig\\source\\repos\\Xamarin\\CriptoPlantas\\CriptoPlantas.Android\\CriptoPlantas.Android.csproj",
+      "projectUniqueName": "C:\\Users\\USER\\Desktop\\Code\\VSCode\\Criptoplantas\\CriptoPlantas.Android\\CriptoPlantas.Android.csproj",
       "projectName": "CriptoPlantas.Android",
-      "projectPath": "C:\\Users\\zunig\\source\\repos\\Xamarin\\CriptoPlantas\\CriptoPlantas.Android\\CriptoPlantas.Android.csproj",
-      "packagesPath": "C:\\Users\\zunig\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\zunig\\source\\repos\\Xamarin\\CriptoPlantas\\CriptoPlantas.Android\\obj\\",
+      "projectPath": "C:\\Users\\USER\\Desktop\\Code\\VSCode\\Criptoplantas\\CriptoPlantas.Android\\CriptoPlantas.Android.csproj",
+      "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\USER\\Desktop\\Code\\VSCode\\Criptoplantas\\CriptoPlantas.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\zunig\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -3203,8 +3203,8 @@
       "frameworks": {
         "monoandroid12.0": {
           "projectReferences": {
-            "C:\\Users\\zunig\\source\\repos\\Xamarin\\CriptoPlantas\\CriptoPlantas\\CriptoPlantas.csproj": {
-              "projectPath": "C:\\Users\\zunig\\source\\repos\\Xamarin\\CriptoPlantas\\CriptoPlantas\\CriptoPlantas.csproj"
+            "C:\\Users\\USER\\Desktop\\Code\\VSCode\\Criptoplantas\\CriptoPlantas\\CriptoPlantas.csproj": {
+              "projectPath": "C:\\Users\\USER\\Desktop\\Code\\VSCode\\Criptoplantas\\CriptoPlantas\\CriptoPlantas.csproj"
             }
           }
         }
