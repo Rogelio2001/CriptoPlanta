@@ -28,8 +28,8 @@
                                 <Frame  Margin="8" CornerRadius="10" Padding="10" BackgroundColor="#768745">
                                     <StackLayout Orientation="Horizontal" >
                                         <Image Source="{Binding Foto}" WidthRequest="60" HeightRequest="60"/>
-                                        <StackLayout Padding="15,0,0,0">
-                                            <Label Text="{Binding Nombre}" FontSize="Medium" FontAttributes="Bold" TextColor="Black"/>                                           
+                                        <StackLayout Padding="30,0,0,0"  >
+                                            <Label Text="{Binding Nombre}" FontSize="Medium" FontAttributes="Bold" TextColor="#ffef82"/>                                           
                                         </StackLayout>
                                     </StackLayout>
                                 </Frame>
@@ -38,8 +38,8 @@
                     </ListView.ItemTemplate>
                 </ListView>
             </StackLayout>
-            <Frame BackgroundColor="#768745" Margin="8" CornerRadius="10" Padding="10" HeightRequest="120" >
-                <Label x:Name="lbdescrip" Text="{Binding Descripcion}" FontSize="Medium" TextColor="#748C99" HorizontalTextAlignment="Center"/>
+            <Frame BackgroundColor="#768745" Margin="8" CornerRadius="10" Padding="10"  >
+                <Label x:Name="lbdescrip" Text="{Binding Descripcion}" FontSize="Medium" TextColor="#ffef82" HorizontalTextAlignment="Center" />
             </Frame>
         </StackLayout>
     </ContentPage.Content>
