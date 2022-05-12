@@ -20,9 +20,10 @@ namespace CriptoPlantas
             InitializeComponent();
             grupo = new ObservableCollection<Plantas>
             {
-                new Plantas {Nombre="Poto", Foto="",Descripcion="" },
+                new Plantas {Nombre="Poto", Foto="plantax",Descripcion="" },
                 new Plantas { Nombre = "", Foto = "", Descripcion = ""}
             };
+            lvgrupo.ItemsSource = grupo;
         }
         private void lsvGrupo_ItemTapped(object sender, ItemTappedEventArgs e)
         {
