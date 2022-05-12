@@ -10,7 +10,7 @@ namespace CriptoPlantas
         {
             InitializeComponent();
 
-            MainPage = new MainPage();
+            MainPage = new Coleccion();
         }
 
         protected override void OnStart()

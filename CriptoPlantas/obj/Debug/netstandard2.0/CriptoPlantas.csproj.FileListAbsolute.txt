@@ -1,0 +1,7 @@
+C:\Users\zunig\source\repos\Xamarin\CriptoPlantas\CriptoPlantas\obj\Debug\netstandard2.0\CriptoPlantas.csproj.AssemblyReference.cache
+C:\Users\zunig\source\repos\Xamarin\CriptoPlantas\CriptoPlantas\obj\Debug\netstandard2.0\CriptoPlantas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zunig\source\repos\Xamarin\CriptoPlantas\CriptoPlantas\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\zunig\source\repos\Xamarin\CriptoPlantas\CriptoPlantas\obj\Debug\netstandard2.0\Coleccion.xaml.g.cs
+C:\Users\zunig\source\repos\Xamarin\CriptoPlantas\CriptoPlantas\obj\Debug\netstandard2.0\CriptoPlantas.AssemblyInfoInputs.cache
+C:\Users\zunig\source\repos\Xamarin\CriptoPlantas\CriptoPlantas\obj\Debug\netstandard2.0\CriptoPlantas.AssemblyInfo.cs
+C:\Users\zunig\source\repos\Xamarin\CriptoPlantas\CriptoPlantas\obj\Debug\netstandard2.0\CriptoPlantas.csproj.CoreCompileInputs.cache
